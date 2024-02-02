@@ -1,4 +1,4 @@
-![image](https://github.com/DDDDorwin/2D-shooting-game/assets/89888473/9c7660f8-4add-4c7b-bb1b-f69ce084bb82)# 2D Mario Shooting Game in Python
+# 2D Mario Shooting Game in Python
 
 Welcome to the 2D Mario Shooting Game! This game is a Python-based project that combines classic Mario elements with an exciting shooting mechanic. Jump, shoot, and navigate through levels filled with enemies and obstacles in a quest to save the Mushroom Kingdom.
 
@@ -14,7 +14,11 @@ Welcome to the 2D Mario Shooting Game! This game is a Python-based project that 
 - Power-ups and special items.
 - Score system and high score tracking.
 
-## Getting Started
+## Screenshot
+
+![Homepage Screenshot](img/Tutorialpage.png "Tutorial of the Game")
+![Homepage Screenshot](img/game.png "Game")
+
 
 ### Prerequisites
 
